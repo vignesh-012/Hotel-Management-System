@@ -49,7 +49,7 @@ CRUD functionality
 ▶ How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/Hotel-Management-System.git
+git clone https://github.com/vignesh-012/Hotel-Management-System.git
 Open project in Eclipse
 Add MySQL JDBC Driver
 Configure database credentials
